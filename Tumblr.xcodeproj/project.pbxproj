@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		20F68DA8202FAE4B00DC5434 /* PhotoDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F68DA7202FAE4B00DC5434 /* PhotoDetailsViewController.swift */; };
 		26905CDE20254C14002A394D /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26905CDD20254C14002A394D /* PhotoCell.swift */; };
 		26DBC20F202277A80081FF70 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26DBC20E202277A80081FF70 /* AppDelegate.swift */; };
 		26DBC214202277A80081FF70 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26DBC212202277A80081FF70 /* Main.storyboard */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		12B532B3AB1C13E0671F77C0 /* Pods-TumblrTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TumblrTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TumblrTests/Pods-TumblrTests.release.xcconfig"; sourceTree = "<group>"; };
+		20F68DA7202FAE4B00DC5434 /* PhotoDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailsViewController.swift; sourceTree = "<group>"; };
 		26905CDD20254C14002A394D /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
 		26DBC20B202277A80081FF70 /* Tumblr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tumblr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26DBC20E202277A80081FF70 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 			children = (
 				26DBC23C20227D610081FF70 /* PhotoViewController.swift */,
 				26DBC20E202277A80081FF70 /* AppDelegate.swift */,
+				20F68DA7202FAE4B00DC5434 /* PhotoDetailsViewController.swift */,
 				26905CDD20254C14002A394D /* PhotoCell.swift */,
 				26DBC212202277A80081FF70 /* Main.storyboard */,
 				26DBC215202277A80081FF70 /* Assets.xcassets */,
@@ -463,6 +466,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20F68DA8202FAE4B00DC5434 /* PhotoDetailsViewController.swift in Sources */,
 				26DBC20F202277A80081FF70 /* AppDelegate.swift in Sources */,
 				26905CDE20254C14002A394D /* PhotoCell.swift in Sources */,
 				26DBC23D20227D610081FF70 /* PhotoViewController.swift in Sources */,
