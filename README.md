@@ -2,13 +2,13 @@
 
 **Tumblr** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [x] User can scroll through a feed of images returned from the Tumblr API (5pts)
+- [ x] User can scroll through a feed of images returned from the Tumblr API (5pts)
 
 The following **optional** user stories are implemented:
 
@@ -23,24 +23,23 @@ The following **additional** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. linking issue
-2. missing some characters when writing.
+1. I would like to discuss with my peers how they dealt with issues they encountered. We had an issue and we dealt with it by reseting to the last working state which had been pushed to GitHub.
+2. I would also ask about better ways to deal with some of the UI elements of the project.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 ![tumblr](tumblr.gif)
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the challenges we experienced was during Milestone 3 step 1. We made a mistake we did not catch and this caused more issues when trying to move on to step 2. We made the choice to revert our code to the last working version and after that we were able to proceed at a much faster rate.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2018 Emily & Ali
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -53,6 +52,8 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
 
 ******************************************************************
 
@@ -80,12 +81,13 @@ The following **additional** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. linked issues
+1. linking issues
 2. messing up on some syntax
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![tumblr](tumblr2.gif)
 
 ## Notes
@@ -94,7 +96,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2018 Emily & Ali
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
